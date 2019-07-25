@@ -1,14 +1,9 @@
 # omniauth-salesforce-rails
 
-[OmniAuth](https://github.com/intridea/omniauth) Strategy for [salesforce.com](salesforce.com).
+[OmniAuth](https://github.com/intridea/omniauth) Strategy for [salesforce.com](salesforce.com) using the [omniauth-rails_csrf_protection](https://github.com/cookpad/omniauth-rails_csrf_protection) 
+gem to provide CSRF protection on OmniAuth request endpoint on Rails applications.
 
-Note: This is a fork of the [original](https://github.com/richardvanhook/omniauth-salesforce) project and is now the main repository for the omniauth-salesforce gem.
-
-## See it in action
-
-[http://omniauth-salesforce-example.herokuapp.com](http://omniauth-salesforce-example.herokuapp.com)
-
-[Source for above app](https://github.com/richardvanhook/omniauth-salesforce-example)
+Note: This is a fork of the [omniauth-salesforce](https://github.com/realdoug/omniauth-salesforce) project.
 
 ## Resources
 
