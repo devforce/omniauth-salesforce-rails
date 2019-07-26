@@ -5,7 +5,7 @@ Gem::Specification.new do |gem|
   gem.email         = ['jdouglas@salesforce.com']
   gem.description   = 'OmniAuth strategy for salesforce using rails'
   gem.summary       = 'OmniAuth strategy for salesforce using rails'
-  gem.homepage      = 'https://github.com/jeffdonthemic/omniauth-salesforce-rails'
+  gem.homepage      = 'https://github.com/devforce/omniauth-salesforce-rails'
 
   gem.executables   = `git ls-files -- bin/*`.split('\n').map { |f| File.basename(f) }
   gem.files         = `git ls-files`.split('\n')
